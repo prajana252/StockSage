@@ -1,0 +1,37 @@
+sku,product_name,category,on_hand,unit_price,unit_cost,supplier_id,moq,pack_size
+SKU001,Sparkling Water 1L,Beverages,978,6.23,4.05,SUP1,12,6
+SKU002,Cold Brew Coffee,Beverages,388,10.54,6.85,SUP2,1,12
+SKU003,Orange Juice 1L,Beverages,474,6.95,4.52,SUP3,12,12
+SKU004,Green Tea Bottles,Beverages,932,2.96,1.92,SUP4,24,12
+SKU005,Energy Drink 250ml,Beverages,690,7.14,4.64,SUP5,12,6
+SKU006,Oat Milk 1L,Beverages,12,5.51,3.58,SUP6,24,12
+SKU007,Whole Milk 1L,Dairy & Eggs,1154,2.95,1.92,SUP1,24,12
+SKU008,Free-Range Eggs 12,Dairy & Eggs,281,10.8,7.02,SUP2,12,12
+SKU009,Greek Yogurt 500g,Dairy & Eggs,839,8.19,5.32,SUP3,1,1
+SKU010,Butter 250g,Dairy & Eggs,961,2.83,1.84,SUP4,24,6
+SKU011,Cheddar 400g,Dairy & Eggs,161,3.86,2.51,SUP5,1,1
+SKU012,Cream 250ml,Dairy & Eggs,18,9.14,5.94,SUP6,24,6
+SKU013,Sourdough Loaf,Bakery,525,7.12,4.63,SUP1,12,6
+SKU014,Wholemeal Bread,Bakery,118,10.77,7.0,SUP2,1,1
+SKU015,Bagels 6pk,Bakery,1770,8.91,5.79,SUP3,12,1
+SKU016,Croissants 4pk,Bakery,1171,4.89,3.18,SUP4,24,12
+SKU017,Tortilla Wraps,Bakery,868,7.57,4.92,SUP5,24,6
+SKU018,Muffins 4pk,Bakery,962,6.86,4.46,SUP4,1,12
+SKU019,Dish Soap 500ml,Household,871,5.53,3.59,SUP1,12,12
+SKU020,Laundry Pods 40,Household,178,2.54,1.65,SUP2,1,6
+SKU021,Paper Towels 6pk,Household,471,5.72,3.72,SUP3,24,12
+SKU022,Toilet Paper 12pk,Household,926,4.47,2.91,SUP4,1,6
+SKU023,Trash Bags 30,Household,518,6.54,4.25,SUP5,24,6
+SKU024,Surface Spray,Household,17,10.47,6.81,SUP6,12,6
+SKU025,Shampoo 400ml,Personal Care,429,4.0,2.6,SUP3,12,1
+SKU026,Toothpaste 100ml,Personal Care,457,1.86,1.21,SUP2,1,12
+SKU027,Hand Soap 250ml,Personal Care,310,4.68,3.04,SUP3,1,6
+SKU028,Deodorant,Personal Care,548,6.7,4.36,SUP4,24,1
+SKU029,Face Wipes 25,Personal Care,633,2.61,1.7,SUP5,12,1
+SKU030,Sunscreen SPF50,Personal Care,17,1.59,1.03,SUP6,12,12
+SKU031,Salted Crisps 150g,Snacks,461,4.2,2.73,SUP1,24,1
+SKU032,Dark Chocolate 100g,Snacks,241,7.88,5.12,SUP5,12,12
+SKU033,Mixed Nuts 200g,Snacks,460,3.25,2.11,SUP3,12,12
+SKU034,Granola Bars 6pk,Snacks,712,8.72,5.67,SUP4,1,12
+SKU035,Popcorn 90g,Snacks,780,6.22,4.04,SUP5,1,1
+SKU036,Rice Cakes,Snacks,13,8.58,5.58,SUP6,12,12
